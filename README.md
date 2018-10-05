@@ -1,15 +1,13 @@
 # responsive-redux-example-web
 
-<a href="https://github.com/markallancourtney/responsive-redux" target="_blank">responsive-redux</a> example for React on the web.
-
-This is an example of how to use <a href="https://github.com/markallancourtney/responsive-redux" target="_blank">responsive-redux</a> with React on the web
+This is an example of how to use <a href="https://github.com/markallancourtney/responsive-redux" target="_blank">responsive-redux</a> with React on the web.
 
 # Usage
 
 - Clone this repository
     - `git clone https://github.com/markallancourtney/responsive-redux-example-react-web.git`
 - Change into this project directory
-    - `cd responsive-redux`
+    - `cd responsive-redux-example-react-web`
 - Install dependencies
     - `npm install`
 - Start server
